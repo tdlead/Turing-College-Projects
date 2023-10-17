@@ -1,6 +1,6 @@
-Dashboard: https://public.tableau.com/app/profile/tatiana.dubineanschi/viz/Sales_16865921748990/SalesYOYDashboard
+**Dashboard:** https://public.tableau.com/app/profile/tatiana.dubineanschi/viz/Sales_16865921748990/SalesYOYDashboard
 
-DataSources created With SQL queries:
+**DataSources created With SQL queries:**
 
 Territorry Sales: https://docs.google.com/spreadsheets/d/1-bybT51iAvURnclfyzSAaE2ojlkE68GSUKmWba6Wq0I/edit?usp=sharing
 
