@@ -4,9 +4,10 @@
 This report outlines the methodology I employed to analyze data using the six steps of data analysis. 
 Specifically, the data being analyzed is the steps data from my Apple Watch for the period of August 2022 to February 2023.
 
-Data source: [file](01 Structured Approach to DA/StepCount_AppleWatch_Jul22-March23_V01.xlsx)
-## <Phase 1> Ask 
+Data source: [file](https://github.com/tdlead/Turing-College-Projects/blob/63ddc76ae160955302efbe86891e1dccb470b11a/01%20Structured%20Approach%20to%20DA/StepCount_AppleWatch_Jul22-March23_V01.xlsx)
+Link to: [Presentation](https://github.com/tdlead/Turing-College-Projects/blob/63ddc76ae160955302efbe86891e1dccb470b11a/01%20Structured%20Approach%20to%20DA/Steps%20Count%20Analysis%20Share.pdf)
 
+## <Phase 1> Ask
 In this phase, my main objective was to clearly define the problem at hand and formulate questions that I aimed to answer throughout the analysis.
 
 **Define the problem:** 
@@ -86,7 +87,7 @@ The presentation included the following:
 
 By sharing the main takeaways and recommendations through a presentation, it was possible to communicate the insights gained from the analysis phase and provide actionable steps for improving physical activity levels.
 
-Link to: [Presentation](01 Structured Approach to DA/Steps Count Analysis Share.pdf)
+
 
 ## <Phase 6> Act
 
