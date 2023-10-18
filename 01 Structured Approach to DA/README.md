@@ -4,6 +4,7 @@
 This report outlines the methodology I employed to analyze data using the six steps of data analysis. 
 Specifically, the data being analyzed is the steps data from my Apple Watch for the period of August 2022 to February 2023.
 
+Data source: [file](01 Structured Approach to DA/StepCount_AppleWatch_Jul22-March23_V01.xlsx)
 ## <Phase 1> Ask 
 
 In this phase, my main objective was to clearly define the problem at hand and formulate questions that I aimed to answer throughout the analysis.
@@ -29,7 +30,7 @@ During this phase, resources were allocated to identify the required data for an
 - Date and time
 - Steps count
 
-**Detect datasources:**
+**Detect datasource:**
 Primary datasource of daily activity : Iphone's Health data 
 The datasource that could provide me data about count of steps is Apple Watch (device automatically tracks steps per/day) and is also connected to Apple Health application. From there, I was able to export data. 
 
@@ -37,7 +38,7 @@ The datasource that could provide me data about count of steps is Apple Watch (d
 Iphone's Health data is exported in xml format in one single format. It requires to be processed, to transform xml in csv format, I used available site https://www.ericwolter.com/projects/apple-health-export/ (it transforms xml data in separate by topic csv files). I downloaded only file related to steps count: HKQuantityTypeIdentifierStepCount (raw data).
 
 **Organize and Secure data:**
-Data will be organized on my Google Drive, in Turring College/ Sprint 1/ StepsAnalisys with specific  defined structure :
+Data will be organized on my Google Drive, in Turing College/ Sprint 1/ Steps Analisys with specific  defined structure :
 - raw
 - processed
 - analysised
@@ -85,13 +86,15 @@ The presentation included the following:
 
 By sharing the main takeaways and recommendations through a presentation, it was possible to communicate the insights gained from the analysis phase and provide actionable steps for improving physical activity levels.
 
+Link to: [Presentation](01 Structured Approach to DA/Steps Count Analysis Share.pdf)
+
 ## <Phase 6> Act
 
 In the Act phase, I will actively work on implementing the recommendations that were made based on my analysis. This will involve adjusting my daily habits and routines to increase my daily step count and reach my activity goals.
 
 
 ## Left questions, problems:
-- Year is not complete, data colection starts from 4th July, We are missing complete March (21 March 23 ), April, May, June.
+- Year is not complete, data collection starts from 4th July, We are missing complete March (21 March 23 ), April, May, June.
 - To see patterns in month and seasonality is good to have more years as base for analysis
 - We don't know the reasons why certain day has so little steps done:
   - it can be sickness (bed regime)
