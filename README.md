@@ -12,10 +12,11 @@ During my time at the Turing College Bootcamp, I completed 11 real-data projects
 
 These experiences have prepared me for a career as Data Analyst/ Decision Scientist. 
 
-# Tableau
-[Link to my Tableau](https://public.tableau.com/app/profile/tatiana.dubineanschi/vizzes)
+**Tableau:** [Link to my Dashboards](https://public.tableau.com/app/profile/tatiana.dubineanschi/vizzes) <br>
+**Most complex SQL:** [Link to Bigquery](https://console.cloud.google.com/bigquery?sq=147855269776:32b3a8b602d84551b8f539384e753552) <br>
+**Last Python Project:** [Link to Google Colab](https://colab.research.google.com/drive/1wqGLd0xybdCw9S-F-PvfeweT3FnBWaQv?usp=sharing)
 
-  # Projects 
+# Projects 
 
 **Analyzing Business Problems**
   - [Product Analyst](https://github.com/tdlead/Turing-College-Projects/blob/9436bdef227c6c4abc3598e509bd567a72a4aeba/11%20Product%20Analyst)
