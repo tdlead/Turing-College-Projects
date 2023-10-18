@@ -1,6 +1,6 @@
 # dtatia-MAT.3
 
-# RFM
+# RFM Analysis
 ### SQL:
 -> aggregated per rfm_score:<br> https://console.cloud.google.com/bigquery?sq=147855269776:c85e4d0f31914c669cedfe7b72b2ec97<br>
 -> detailed per customer/invoice:<br> https://console.cloud.google.com/bigquery?sq=147855269776:3abdba7767b543f49a91f9233b2d14ee<br>
@@ -12,7 +12,7 @@ https://docs.google.com/presentation/d/1-ZqZe4FfScoKO-g-kBxvXYbQhOJAw7JntSDUGYlL
 https://public.tableau.com/app/profile/tatiana.dubineanschi/viz/RFM_16934883829740/Dashboard1?publish=yes
 
 
-# CLV
+# CLV Analysis
 ### SQL:
 https://console.cloud.google.com/bigquery?sq=147855269776:2b0c5c7053cd465d97f853264d51ca0a
 

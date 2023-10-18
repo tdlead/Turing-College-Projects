@@ -1,3 +1,6 @@
+**Problem:** <br>
+Create a Dashboard for Sales Manager to analyze sales data trend. <br>
+
 **Dashboard:** https://public.tableau.com/app/profile/tatiana.dubineanschi/viz/Sales_16865921748990/SalesYOYDashboard
 
 **DataSources created With SQL queries:**
