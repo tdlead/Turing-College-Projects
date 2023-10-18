@@ -25,7 +25,7 @@ These experiences have prepared me for a career as Data Analyst/ Decision Scient
   - [Linear and Logistic Regression](https://github.com/tdlead/Turing-College-Projects/blob/9436bdef227c6c4abc3598e509bd567a72a4aeba/10%20Linear%20and%20Logistic%20Regression/README.md)
   - [CLV, Customer Segmentation & RFM](https://github.com/tdlead/Turing-College-Projects/blob/9436bdef227c6c4abc3598e509bd567a72a4aeba/09%20CLV,%20Customer%20Segmentation%20&%20RFM/README.md)
   - [Funnels & A/B Tests](https://github.com/tdlead/Turing-College-Projects/blob/9436bdef227c6c4abc3598e509bd567a72a4aeba/08%20Funnels%20&%20AB%20Tests/README.md)
-  - [Retention, Cohorts & Churn](https://github.com/tdlead/Turing-College-Projects/blob/9436bdef227c6c4abc3598e509bd567a72a4aeba/07%20Retention%20Cohorts%20&%20Churn)
+  - [Retention, Cohorts & Churn](https://github.com/tdlead/Turing-College-Projects/blob/0f78ad63fa0cfb7dddf2d68a4727ab2a5d156d42/07%20Retention%20Cohorts%20%20Churn)
 
 
 **Communicating Analysis Results: Tableau**
