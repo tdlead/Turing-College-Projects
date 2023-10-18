@@ -15,20 +15,23 @@ These experiences have prepared me for a career as Data Analyst/ Decision Scient
 
   # Projects 
 
-   ### Analyzing Business Problems
+    **Analyzing Business Problems**
   - [Product Analyst](https://github.com/tdlead/Turing-College-Projects/blob/main/10-Sprint1-Product%20Analyst/Solution.md)
     
-    ### Main Analysis Types
+
+    **Main Analysis Types**
   - [Linear and Logistic Regression](https://github.com/tdlead/Turing-College-Projects/tree/main/11-Sprint4-Linear%20and%20Logistic%20Regression)
   - [CLV, Customer Segmentation & RFM](https://github.com/tdlead/Turing-College-Projects/blob/main/12-Sprint3-CLV,%20Customer%20Segmentation%20&%20RFM/Solution.md)
   - [Funnels & A/B Tests](https://github.com/tdlead/Turing-College-Projects/blob/main/13-Sprint2-Funnels%20%26%20AB%20Tests/Solution.md)
   - [Retention, Cohorts & Churn](https://github.com/tdlead/Turing-College-Projects/blob/main/14-Sprint1-Retention%2C%20Cohorts%20%26%20Churn/Solution.md)
 
-    ### Communicating Analysis Results: Tableau
+
+    **Communicating Analysis Results: Tableau**
   - [Presentations & Soft Skills](https://github.com/tdlead/Turing-College-Projects/blob/main/15-Sprint2-Presentation%20Skills/Solution.md)
   - [Visualising Data Using Tableau](https://github.com/tdlead/Turing-College-Projects/blob/main/16-Sprint1-Visualising%20Data%20Using%20Tableau/Solution.md)
 
-    ### Introduction to Data Analytics
+
+    **Introduction to Data Analytics**
   - [Advanced SQL and Databases](https://github.com/tdlead/Turing-College-Projects/blob/main/17-Sprint4-Advanced%20SQL%20and%20Databases/Task.md)
   - [SQL and Databases](https://github.com/tdlead/Turing-College-Projects/blob/main/18-Sprint3-SQL%20and%20Databases/Task.md)
   - [Utilising Spreadsheets for Data Analytics](https://github.com/tdlead/Turing-College-Projects/blob/main/19-Sprint2-SpreadSheets)
