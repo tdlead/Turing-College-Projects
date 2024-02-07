@@ -19,6 +19,8 @@ These experiences have prepared me for a career as Data Analyst/ Decision Scient
 # Projects 
 
 **Analyzing Business Problems**
+  - [Delivery/Payments Analysis] (https://github.com/tdlead/Turing-College-Projects/tree/main/12%20Delivery%20Analysis)
+  - [Marketing Analyst] ( https://github.com/tdlead/Turing-College-Projects/tree/main/13%20Marketing ) 
   - [Product Analyst](https://github.com/tdlead/Turing-College-Projects/blob/9436bdef227c6c4abc3598e509bd567a72a4aeba/11%20Product%20Analyst)
     
 
