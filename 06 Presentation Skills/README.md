@@ -16,3 +16,4 @@ I'm data analyst at AdwentureWorks company. Present 2 presentation with sales da
 - [Funnel Analysis](https://my.visme.co/view/6xk6j3dn-6j02e03vq7xxl8zq)
 - [A/B testing campaigns](https://my.visme.co/view/y4zn8xqz-a-b-testing-ny)
 - [Customer Lifetime Analysis](https://docs.google.com/presentation/d/155o5wUAbCPr-dAEbL4wmwvJm5MOD8pUpW6qzf3mT26s/edit?usp=sharing)
+- [RFM analysis](https://docs.google.com/presentation/d/1-ZqZe4FfScoKO-g-kBxvXYbQhOJAw7JntSDUGYlL6Zo/edit#slide=id.p)
